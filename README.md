@@ -1,4 +1,5 @@
-learn
+Learn - Todor's first github repo
 =====
 
-learning stuff
+Learning stuff
+
